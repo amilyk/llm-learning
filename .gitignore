@@ -1,2 +1,6 @@
 *.env
 *.bin
+pythia-70m-deduped/
+cache/
+chroma/
+data/
