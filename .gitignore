@@ -4,3 +4,4 @@ pythia-70m-deduped/
 cache/
 chroma/
 data/
+config/__pycache__/
